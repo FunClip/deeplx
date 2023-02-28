@@ -35,5 +35,7 @@ Content-Type: application/json
 ## Reference
 
 [DeepLX](https://github.com/OwO-Network/DeepLX): Permanently free DeepL API written in Golang
+
 [zu1k/deepl](https://hub.docker.com/r/zu1k/deepl): DeepL Free API Docker
+
 [deepl-free-translate-service](https://github.com/akl7777777/deepl-free-translate-service): token free unlimited use of deepl, according to the web version of JavaScript encryption algorithm developed services; So as long as the official website algorithm should not, theoretically can be unlimited use
